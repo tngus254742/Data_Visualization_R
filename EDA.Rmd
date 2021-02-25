@@ -1,7 +1,6 @@
 ---
 title: 'Explanatory Data Analysis with various visualizations (ggplot2)'
-output:
-  pdf_document:
+output: rmarkdown::github_document
     toc: yes
     number_sections: yes
 ---
